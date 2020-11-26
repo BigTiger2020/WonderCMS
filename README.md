@@ -15,4 +15,6 @@ This vulnerability can results attacker to inject the XSS payload in Page descri
 2. Put this payload in Page description: "haha"><img src=x onerror=confirm('xss')>"  
 3. Now go to the website and the XSS will be triggered.  
 
-*POC  
+*POC   
+
+![image](https://github.com/BigTiger2020/WonderCMS/blob/main/01.png)
